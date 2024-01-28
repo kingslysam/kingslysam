@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslysam" alt="kingslysam" /></a> </p>
 
-- 🌱 I’m currently learning **AI, ML and NextJS**
+- 🌱 I’m currently learning **AI,and ML and maybe just maybe UI/UX 😶‍🌫️**
 
 - 📫 How to reach me **samyona48@gmail.com**
 
