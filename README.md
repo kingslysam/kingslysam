@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI and ML abd maybe just maybe UI/UX 😶‍🌫️**
 
-- 👨‍💻 All of my projects are available at [www.killagane.software](https://killagane.software)
+- 👨‍💻 All of my projects are available at [https://samkillagane.vercel.app/](https://samkillagane.vercel.app/)
 
 - 💬 Ask me about **Anything yoo what I can help with I will**
 
